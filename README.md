@@ -39,11 +39,11 @@ pip install opencv
   
 ## Testing the model in Real-time
 
-<h3>Now its time to test our model</h3>
-
 <p align="center">
+  <img src="pictures/2022-04-01 (9).png" alt="..." >
+</p>
+<p>
   <img src="pictures/2022-04-01 (10).png" alt="...">
-  <img src="pictures/2022-04-01 (9).png" alt="...">
 </p>
 
 
